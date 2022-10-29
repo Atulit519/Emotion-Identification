@@ -1,0 +1,44 @@
+.heading{
+    font-size: 20px;
+    letter-spacing: 8px;
+    border-radius: 20px;
+    color: white;
+}
+
+span{
+    font-size: 30px;
+}
+
+#camera, #result{
+    border: black ridge 4px;
+    width: 350px;
+    height: 300px;
+}
+
+.emotion_name{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.emoji{
+    font-size: 30px;
+    margin: 5px;
+}
+
+label{
+    font-size: 25px;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+#information{
+    font-family: 'Ubuntu', sans-serif;
+}
+
